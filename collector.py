@@ -53,6 +53,7 @@ for source in SOURCES:
             except (ValueError, TypeError):
                 malformed += 1
                 continue
+            print(f"DEBUG: date={date}, since={since}, NOW={NOW}")
             if date < since or date > NOW + timedelta(days=1):
                 old += 1
                 continue
