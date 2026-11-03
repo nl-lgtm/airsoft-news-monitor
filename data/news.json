@@ -2,25 +2,25 @@
   "news": [],
   "checks": {
     "Tokyo Marui": {
-      "last_success": "2026-11-03T08:49:54.903089+00:00",
+      "last_success": "2026-11-03T08:55:02.285539+00:00",
       "last_count": 0,
       "rss_items": 14,
       "error": null
     },
     "VFC Airsoft": {
-      "last_success": "2026-11-03T08:49:54.903089+00:00",
+      "last_success": "2026-11-03T08:55:02.285539+00:00",
       "last_count": 0,
       "rss_items": 9,
       "error": null
     },
     "GHK Airsoft": {
-      "last_success": "2026-11-03T08:49:54.903089+00:00",
+      "last_success": "2026-11-03T08:55:02.285539+00:00",
       "last_count": 0,
       "rss_items": 1,
       "error": null
     },
     "LCT Airsoft": {
-      "last_success": "2026-11-03T08:49:54.903089+00:00",
+      "last_success": "2026-11-03T08:55:02.285539+00:00",
       "last_count": 0,
       "rss_items": 3,
       "error": null
@@ -32,19 +32,19 @@
       "error": "RSS returned 0 items; checkpoint preserved"
     },
     "CYMA Airsoft": {
-      "last_success": "2026-11-03T08:49:54.903089+00:00",
+      "last_success": "2026-11-03T08:55:02.285539+00:00",
       "last_count": 0,
       "rss_items": 1,
       "error": null
     },
     "Double Eagle Airsoft": {
-      "last_success": "2026-11-03T08:49:54.903089+00:00",
+      "last_success": "2026-11-03T08:55:02.285539+00:00",
       "last_count": 0,
       "rss_items": 3,
       "error": null
     },
     "E&L Airsoft": {
-      "last_success": "2026-11-03T08:49:54.903089+00:00",
+      "last_success": "2026-11-03T08:55:02.285539+00:00",
       "last_count": 0,
       "rss_items": 3,
       "error": null
@@ -56,11 +56,11 @@
       "error": "RSS returned 0 items; checkpoint preserved"
     },
     "G&G Armament": {
-      "last_success": "2026-11-03T08:49:54.903089+00:00",
+      "last_success": "2026-11-03T08:55:02.285539+00:00",
       "last_count": 0,
       "rss_items": 10,
       "error": null
     }
   },
-  "last_run": "2026-11-03T08:49:54.903089+00:00"
+  "last_run": "2026-11-03T08:55:02.285539+00:00"
 }
