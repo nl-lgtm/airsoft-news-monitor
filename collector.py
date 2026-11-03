@@ -25,7 +25,7 @@ for source in SOURCES:
     previous = state['checks'].get(name, {})
     prior_success = previous.get('last_success')
     try:
-        since = datetime.fromisoformat(prior_success.replace('Z', '+00:00')).astimezone(timezone.utc) - timedelta(hours=12) if prior_success else NOW - timedelta(days=7)
+        since = datetime.fromisoformat(prior_success.replace('Z', '+00:00')).astimezone(timezone.utc) - timedelta(hours=12) if prior_success else NOW - timedelta(days=90)
     except (ValueError, TypeError):
         since = NOW - timedelta(days=7)
     # Search the exact brand as well as the word airsoft to reduce false matches.
